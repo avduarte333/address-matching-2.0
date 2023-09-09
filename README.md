@@ -1,6 +1,6 @@
 # ICMLA-2023
 
-This is the official code accompanied with the paper 'Improving embeddings for high-accuracy transformer-based address matching using a multiple in-batch negatives loss'.  The paper is submitted to ICMLA 2023.
+This is the official code accompanied with the paper 'Improving embeddings for high-accuracy transformer-based address matching using a multiple in-batch negatives loss'.  The paper is to be presented at ICMLA 2023.
 
 <p align="center">
   <img src="fine_tuning.jpg" alt="Alt text" title="Optional title" width="50%" height="50%">
